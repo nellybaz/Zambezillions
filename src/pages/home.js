@@ -19,20 +19,21 @@ class Home extends Component{
     render(){
         return(
             <div className='Home'>
-                <Header />
+                    <Header />
                 <div className='home-wrapper'>
                 </div>
 
-                <div className='Footer'>
-                 <Footer />
-                </div>
 
                 <div className='Body'>
-                <Body />
+                    <Body />
                 <div className='Body-wrapper'>
                 </div>
                 </div>
                 
+
+                <div className='Footer'>
+                    <Footer />
+                </div>
             </div>
         );
     }

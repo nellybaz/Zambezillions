@@ -145,11 +145,6 @@ class Main extends Component{
                 </div>
             </div>
 
-            <div className='Footer'>
-                    <footer>
-                        <p>@ Zambezillions 2018. All Right Reserved.</p>
-                    </footer>
-                </div>
         </div>
         );
     }   
