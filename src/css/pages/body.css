@@ -1,0 +1,77 @@
+.Mission-statement{
+    width: 100%;
+    background-color:#2A2A2A;
+    color: white;
+    padding: 3% 4%;
+    font-family: Helvetica;
+}
+
+.The-videos{
+    width: 100%;
+    padding: 2% 1%;
+    height: 100%;
+    display: flex;
+}
+
+.sm-page{
+    width: 50%;
+    padding-bottom: 40%;
+    background-color: white;
+    text-align: center;
+}
+
+.AWC-Porjects{
+    width: 100%;
+    padding: 1% 1% 5% 0%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.Africans-wilddogs{
+    text-align: center;
+    color: white;
+    padding: 1%;
+    width: 30%;
+    background-color:#29251B;
+    cursor: pointer;
+}
+
+.Donations{
+    text-align: center;
+    padding-top: 1%;
+}
+
+.story-about-donation{
+    color: white;
+    font-size: 200%;
+}
+
+.Donate-box2{
+    text-align: center;
+}
+
+.Generat-donate-site{
+    background-color: #98967F;
+    width: 100%;
+    padding: 1% 5% 5% 5%;
+}
+
+.Our-Partners{
+    width: 100%;
+    text-align: center;
+}
+
+.logos{
+    display: flex;
+    padding: 2% 0% 2% 0%;
+    cursor: pointer;
+}
+
+.partners{
+    text-align: center;
+    padding-top: 4%;
+    width: 100%;
+}

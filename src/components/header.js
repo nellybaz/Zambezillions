@@ -9,7 +9,7 @@ class Header extends Component{
             <div className='Header'>
                 <div className='header-wrapper'>
                     <div className='img-logo-div'>
-                        <img src={logo} />
+                        <img src= "https://www.pvschools.net/cms/lib/AZ01902189/Centricity/Domain/39/Greenway_Mascot_NoSignature.png" />
                     </div>
                     
                     <div className='header-nav'>
@@ -19,8 +19,8 @@ class Header extends Component{
                             <li>Projects</li>
                             <li>About African WIld Dogs</li>
                             <li>Home</li>
-                            <li>Home</li>
-                            <li>Home</li>
+                            <li>Gallery</li>
+                            <li>Donate</li>
                             <li>fb</li>
                             <li>twitter</li>
                             <li>instagram</li>
@@ -31,7 +31,6 @@ class Header extends Component{
                 <div className='header-gap'>
                     
                 </div>
-
 
             </div>
         )
