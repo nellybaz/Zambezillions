@@ -1,9 +1,62 @@
 .Home {
   width: 100%;
-  background-color: #E8DCC4;
 }
 
-.home-wrapper {
-  height: 280px;
+.home-wrapper .jumbo {
+  height: 500px;
+  width: 100%;
+  background: #353535;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+  grid-gap: 0;
+  padding: 100px 30px;
+}
+
+.home-wrapper .jumbo .right {
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.home-wrapper .jumbo .right img {
+  width: 400px;
+  height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.home-wrapper .jumbo .left {
+  width: 100%;
+}
+
+.home-wrapper .jumbo .left h5 {
+  font-size: 2rem;
+  color: #8D795A;
+}
+
+.home-wrapper .section1 {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+  grid-gap: 0;
+}
+
+.home-wrapper .section1 div {
+  width: 100%;
 }
 /*# sourceMappingURL=home.css.map */
