@@ -9,37 +9,31 @@ class About extends Component{
                 <Header />
                <div className = "about-us-main-page">
                
-               <div className = "approach-about">
-                <p><h1>Our Approach</h1></p>
-                </div>
-
-                <div className = "approach-content">
-                    <div className = "pic-content-one">
-                        <img src="http://africanwildlifeconservationfund.org/wp-content/uploads/2017/09/Gonerezhou_Predator_Project.jpg" height="450" width="650"></img>
+                    <div className = "our-approach-heading">
+                        <p>
+                            <h1>
+                                Our Approach
+                            </h1>
+                        </p>
+                    </div>
+                    
+                    <div className = "approach-content">
+                        <div className = "pic-content-one">
+                        <img src="http://africanwildlifeconservationfund.org/wp-content/uploads/2017/09/Gonerezhou_Predator_Project.jpg"height="450" width="660"></img>
                     </div>
 
                     <div className = "paragraph-content-two">
                         <div className = "paragraph-one">
-                        <p>
-                            The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br> 
-                            organization and a Zimbabwean-registered Trust, dedicated to <br></br>
-                            the conservation of the large carnivore guild of southern Africa, <br></br>
-                            with a particular emphasis on the endangered African wild dog.<br></br>
-                        </p>
+                        <p><br></br>The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br>organization and a Zimbabwean-registered Trust, dedicated to <br></br>
+                        the conservation of the large carnivore guild of southern Africa, <br></br>with a particular emphasis on the endangered African wild dog.<br></br></p>
                     </div>
                         
-
-                        <p>
-                        <br></br>
-                        The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br> 
-                        organization and a Zimbabwean-registered Trust, dedicated to <br></br>
-                        the conservation of the large carnivore guild of southern Africa, <br></br>
-                        with a particular emphasis on the endangered African wild dog.<br></br>
-                        </p>
+                        <p><br></br>The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br>organization and a Zimbabwean-registered Trust, dedicated to <br></br>
+                        the conservation of the large carnivore guild of southern Africa, <br></br>with a particular emphasis on the endangered African wild dog.<br></br></p>
 
                         <p><br></br>The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br>organization and a Zimbabwean-registered Trust, dedicated to <br></br>
-                            the conservation of the large carnivore guild of southern Africa, <br></br>with a particular emphasis on the endangered African wild dog.<br></br>
-                        </p>
+                        the conservation of the large carnivore guild of southern Africa, <br></br>with a particular emphasis on the endangered African wild dog.<br></br></p>
+                        
                         <br></br>
                         <br></br>
                         <button className = "button">
@@ -47,23 +41,32 @@ class About extends Component{
                         </button>
                     </div>
                 </div>
-               
+                
 
 
                 <div className = "paragraph-two">
                     <div className = "content-three">
                             <div className = "paragraph-two">
-                            <p>The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br>organization and a Zimbabwean-registered Trust, dedicated to <br></br>
-                            the conservation of the large carnivore guild of southern Africa, <br></br>with a particular emphasis on the endangered African wild dog.<br></br></p>
+                            <p>
+                                <br></br>
+                                    The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br>organization and a Zimbabwean-registered Trust, dedicated to <br></br>
+                                    the conservation of the large carnivore guild of southern Africa, <br></br>with a particular emphasis on the endangered African wild dog.
+                                <br></br>
+                            </p>
                             </div>
-                        
-                            <p><br></br>
-                            The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br>organization and a Zimbabwean-registered Trust, dedicated to <br></br>
-                            the conservation of the large carnivore guild of southern Africa, <br></br>with a particular emphasis on the endangered African wild dog.<br></br></p>
-
-                            <p><br></br>
-                            The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br>organization and a Zimbabwean-registered Trust, dedicated to <br></br>
-                            the conservation of the large carnivore guild of southern Africa, <br></br>with a particular emphasis on the endangered African wild dog.<br></br></p>
+                                
+                            <p>
+                                <br></br>
+                                    The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br>organization and a Zimbabwean-registered Trust, dedicated to <br></br>
+                                    the conservation of the large carnivore guild of southern Africa, <br></br>with a particular emphasis on the endangered African wild dog.
+                                <br></br>
+                            </p>
+                            <p>
+                                <br></br>
+                                    The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br>organization and a Zimbabwean-registered Trust, dedicated to <br></br>
+                                    the conservation of the large carnivore guild of southern Africa, <br></br>with a particular emphasis on the endangered African wild dog.
+                                <br></br>
+                            </p>                        
                             <br></br>
                             <br></br>
                             <button className = "gallery-button">
@@ -71,56 +74,55 @@ class About extends Component{
                             </button>
                     </div>
 
-                <div className = "pic-content-two">
-                        <img src="http://africanwildlifeconservationfund.org/wp-content/uploads/2017/09/Gonerezhou_Predator_Project.jpg" height="450" width="700"></img>
+                    <div className = "pic-content-two">
+                            <img src="http://africanwildlifeconservationfund.org/wp-content/uploads/2017/09/Gonerezhou_Predator_Project.jpg" height="450" width="700"></img>
+                        </div>
                     </div>
-                </div>
 
+                    
 
+                    <div className = "approach-content">
+                        <div className = "pic-content-one">
+                        <img src="http://africanwildlifeconservationfund.org/wp-content/uploads/2017/09/Gonerezhou_Predator_Project.jpg" height="450" width="660"></img>
+                    </div>
 
-                <div className = "final-content">                    
-                    <div className = "content-four">
-                        <div className = "pic-content-three">
-                            <img src="http://africanwildlifeconservationfund.org/wp-content/uploads/2017/09/Gonerezhou_Predator_Project.jpg" height="450" width="650"></img>
-                        
-                            
-                            <div className = "three">
-                                <p>
-                                    The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br> 
+                    <div className = "paragraph-content-two">
+                        <div className = "paragraph-one">
+                        <p>
+                                <br></br>
+                                    The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br>
                                     organization and a Zimbabwean-registered Trust, dedicated to <br></br>
                                     the conservation of the large carnivore guild of southern Africa, <br></br>
-                                    with a particular emphasis on the endangered African wild dog.<br></br>
-                                </p>
-                            </div>
-                            
-
-                            <p>
-                            <br></br>
-                            The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br> 
-                            organization and a Zimbabwean-registered Trust, dedicated to <br></br>
-                            the conservation of the large carnivore guild of southern Africa, <br></br>
-                            with a particular emphasis on the endangered African wild dog.<br></br>
+                                    with a particular emphasis on the endangered African wild dog.
+                                <br></br>
                             </p>
-
-                            <p>
-                            <br></br>
-                            The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br> 
-                            organization and a Zimbabwean-registered Trust, dedicated to <br></br>
-                            the conservation of the large carnivore guild of southern Africa, <br></br>
-                            with a particular emphasis on the endangered African wild dog.<br></br>
-                            </p>
-                            <br></br>
-                            <br></br>
-                            <button className = "team-button">
-                                Our Team
-                            </button>
                             </div>
+                                
+                            <p>
+                                <br></br>
+                                    The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br>
+                                    organization and a Zimbabwean-registered Trust, dedicated to <br></br>
+                                    the conservation of the large carnivore guild of southern Africa, <br></br>
+                                    with a particular emphasis on the endangered African wild dog.
+                                <br></br>
+                            </p>
+                            <p>
+                                <br></br>
+                                    The African Wildlife Conservation Fund (AWCF) is a non-profit <br></br>
+                                    organization and a Zimbabwean-registered Trust, dedicated to <br></br>
+                                    the conservation of the large carnivore guild of southern Africa, <br></br>
+                                    with a particular emphasis on the endangered African wild dog.
+                                <br></br>
+                            </p>                               
+                        <br></br>
+                        <br></br>
+                        <button className = "button">
+                            Our Team
+                        </button>
                     </div>
-
-                
-                </div>
-                </div>
-           </div>
+                </div>  
+            </div>
+        </div>
         );
     }
 }

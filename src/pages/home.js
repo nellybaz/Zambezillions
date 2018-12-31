@@ -26,8 +26,6 @@ class Home extends Component {
     }
 
 
-
-
     render() {
 
         const styles = {
@@ -53,16 +51,13 @@ class Home extends Component {
                             <Typing speed={3}>
                                 <h5 className='typed-mission'>Our mission is to maintain healthy and viable populations of African wild dogs and other large carnivores in Zimbabwe, as well as the habitats and prey species on which they depend. We achieve this through a combination of research, conservation and education, with a focus on improving school education standards and community livelihoods around key protected areas.</h5>
                             </Typing>
-
                         </div>
 
                         <div className='right'>
                             <StyleRoot>
                             <img style={styles.bounceInRight} src={approach} />
                             </StyleRoot>
-
                         </div>
-
                     </div>
 
                    <section style={styles.section1} className='section1'>
@@ -74,6 +69,12 @@ class Home extends Component {
 
                 <div className='Footer'>
                     <Footer />
+                </div>
+
+                <div className='Footer'>
+                    <footer>
+                        <p>@ Zambezillions 2018. All Right Reserved.</p>
+                    </footer>
                 </div>
             </div>
         );

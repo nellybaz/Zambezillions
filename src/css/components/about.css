@@ -6,17 +6,11 @@
     font-family: Lato, Arial, Helvetica, sans-serif;
 }
 
-.approach-about{
+.our-approach-heading{
     text-align: center;
     padding-top: 5%;
     padding-bottom: 2%;
-}
-
-
-.paragraph-two{
-    padding-top: 2%;
-    padding-left: 0%;
-    font-size: 20px;
+    width: 50%;
 }
 
 
@@ -84,8 +78,7 @@
 }
 
 
-
-.content-four{
+.all-last-content{
     display: flex;
 }
 
