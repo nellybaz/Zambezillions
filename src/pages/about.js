@@ -122,6 +122,61 @@ class About extends Component{
                     </div>
                 </div>  
             </div>
+        
+        {/* <Col lg={12}>
+            <h2>Our Journey</h2>
+          </Col> */}
+          {/* <Col lg={4}>
+            <h3>2016</h3>
+            <p>
+              Founded in September at a hackathon called AgriHack where
+              AgriPredict was the winner of the competition and won $1000 USD as
+              seed funding. This served the foundation for a data company that
+              is driven by change and impact.
+            </p>
+            <br />
+          </Col> */}
+
+          {/* 
+          <Col lg={4}>
+            <h3>2018</h3>
+            <p>
+              Development of the Application. <br /> Participated in the Youth &
+              Farming Panel at FAO in Rome. <br /> Winners of the Africa
+              Conference - November, Egypt. <br /> Winners of Slush GIA
+              -November, Finland. <br /> Selected as one of 3% of 300 startups
+              who applied to pitch at TechCrunch Battlefield Africa – December,
+              Nigeria.
+            </p>
+          </Col> */}
+
+          {/* <Row className="arrow-set-img justify-content-md-center">
+            <img
+              src={arrow}
+              height="0%"
+              className="d-inline-block align-top"
+              alt="AgriPredict Footer Logo"
+            />
+          </Row> */}
+          {/* <Col lg={3} className="journey-sec-2">
+            <h3>2017</h3>
+            <p>
+              Officially incorporated in October. SNV funded and supported the
+              development of the AgriPredict platform.
+            </p>
+          </Col> */}
+          {/* 
+          <Col lg={4} className="journey-sec-two mt-5 desktop-partnership">
+            <h3>2019</h3>
+            <p>
+              In partnership with SNV, our pilot began in Eastern Province in
+              Lundazi and Katete Districts. <br /> Activities included gaining
+              clear understanding of the farmer’s challenges, training lead
+              farmers on the AgriPredict technology, site visits and feedback.{" "}
+              <br /> USSD Platform launched in March. <br /> Team expanded and
+              Advisory Board was set.
+            </p>
+          </Col> */}
         </div>
         );
     }
